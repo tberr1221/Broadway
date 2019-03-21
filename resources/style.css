@@ -4,8 +4,37 @@ html{
 }
 a{
   color: inherit;
+  font-size: 18px;
+}
+h3{
+  font-weight: bold;
+  font-size: 23px;
+}
+p{
+  font-size: 14px;
 }
 .header{
   color: white;
   background-image: url("media/the-flatiron-building.png");
+}
+.footer{
+  text-align:left;
+  color:white;
+  background-color: dimgrey;
+}
+
+#our-process{
+  font-size: 32px;
+  font-weight: bold;
+}
+#broadway{
+  font-size: 70px;
+  font-weight: bold;
+}
+#designed{
+  font-weight: bold;
+  font-size: 23px;
+}
+#copyright{
+  font-size: 11px;
 }
